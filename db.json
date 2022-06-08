@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id":1,
+      "name_of_complexInput": "Захiдно-Український",
+      "name_of_refugeInput": "Луцьке",
+      "capasityInput": "8150",
+      "amount_of_wellsInput": "12",
+      "daily_productivityInput": "12",
+      "amount_of_pumped_gasInput": "1937,6",
+      "quantity_of_selected_gasInput": "210,4",
+      "dateInput": "04.04.1990"
+    }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
